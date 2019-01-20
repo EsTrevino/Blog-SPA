@@ -1,0 +1,8 @@
+nav a {
+  color: black;
+  transition: color 0.25s;
+}
+
+nav a:hover {
+  color: #20cb77;
+}
